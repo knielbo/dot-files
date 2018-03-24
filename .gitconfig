@@ -1,0 +1,8 @@
+[user]
+	name = knielbo
+	email = knielbo@sdu.dk
+[color]
+	ui = auto
+[core]
+	editor = atom --wait
+	excludesfile = ~/.gitignore
